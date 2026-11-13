@@ -3,6 +3,19 @@
 Newest first. Generated from Conventional Commits by release-please. The 0.1.0 entry at the end was
 written by hand for a private build, before the first public release.
 
+## [0.4.0](https://github.com/higorabreu/dev-cockpit/compare/v0.3.0...v0.4.0) (2026-11-13)
+
+
+### Features
+
+* move through the tab menu with the arrow keys ([d5ae31e](https://github.com/higorabreu/dev-cockpit/commit/d5ae31e050a40b301495b1811857d7e6171cc100))
+* open file and folder paths from the terminal with Ctrl+click ([d5ae31e](https://github.com/higorabreu/dev-cockpit/commit/d5ae31e050a40b301495b1811857d7e6171cc100))
+
+
+### Bug Fixes
+
+* paste once in the terminal and keep the toggle key from reopening the window ([#20](https://github.com/higorabreu/dev-cockpit/issues/20)) ([5ec57c6](https://github.com/higorabreu/dev-cockpit/commit/5ec57c653a7b0dea27eb768ae04be1b3997a4d8a))
+
 ## [0.3.0](https://github.com/higorabreu/dev-cockpit/compare/v0.2.0...v0.3.0) (2026-11-13)
 
 
